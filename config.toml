@@ -1,5 +1,5 @@
 ################################# Default configuration ###################
-baseURL = "https://projectnamelss.netlify.app/"
+baseURL = "https://projectnameless.netlify.app/"
 title = "projectX"
 subtitle = "My firs Hugo website"
 
