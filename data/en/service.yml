@@ -1,0 +1,39 @@
+################################# Service #################################
+service:
+  enable : true
+  title : Our Services
+  service_item :
+    # service item loop
+    - name : Immigrate to the US
+      icon : ti-world # themify icon pack : https://themify.me/themify-icons
+      content : Fulfill your dream of emmigration to the US, the world's biggest economy. 
+      
+    # service item loop
+    - name : Job hunting 
+      icon : ti-layout # themify icon pack : https://themify.me/themify-icons
+      content : We will help you find a job prior to you allocation. 
+      
+    # service item loop
+    - name : Visa 
+      icon : ti-blackboard # themify icon pack : https://themify.me/themify-icons
+      content : We help you through the entire proces of obtaining a Visa. 
+      
+    # service item loop
+    - name : Green card lottery 
+      icon : ti-palette # themify icon pack : https://themify.me/themify-icons
+      content : Try obtaining a citizenship via the DV-2021 Diversity Visa program 
+      
+    # service item loop
+    - name : Acquire a new skill, certified programs
+      icon : ti-package # themify icon pack : https://themify.me/themify-icons
+      content : Qualified labour force is more like to find a high paying job. 
+      
+    # service item loop
+    - name : Acclimation services
+      icon : ti-pulse # themify icon pack : https://themify.me/themify-icons
+      content : Adjusting to a new country is even harder than the immigration process. You will need to find a suitable home for you and your family as well as a job that enables you to support your family financially. We provide services to help with all your needs. 
+
+    # service item loop
+    - name : Additional service
+      icon : ti-pulse # themify icon pack : https://themify.me/themify-icons
+      content : This has been added to see how it looks like 
