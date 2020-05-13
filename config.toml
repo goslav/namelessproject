@@ -68,7 +68,6 @@ weight = 5
 [params]
 logo = "images/projectx.png"
 
-
 # Meta data
 description = "Just a practice website using Hugo"
 author = "Themefisher"
