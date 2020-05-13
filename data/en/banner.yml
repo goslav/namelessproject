@@ -4,7 +4,7 @@ banner:
   bg_image_webp : "images/passport.webp"
   bg_image : "images/passport.jpg"
   icon : "" # themify icon pack : https://themify.me/themify-icons
-  title : "CAOP BEBICE!"
+  title : "ĆAOP BEBICE!"
   content : "CPENKUJEM GUCU!"
   button:
     enable : true
