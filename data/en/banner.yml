@@ -4,8 +4,8 @@ banner:
   bg_image_webp : "images/passport.webp"
   bg_image : "images/passport.jpg"
   icon : "" # themify icon pack : https://themify.me/themify-icons
-  title : "ĆAOP BEBICE!"
-  content : "CPENKUJEM GUCU!"
+  title : "Immigrate to the US!"
+  content : "Fulfill your dream of relocating to the world's #1 economy!"
   button:
     enable : true
     label : "Explore Us"
